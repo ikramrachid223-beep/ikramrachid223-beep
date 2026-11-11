@@ -5,14 +5,7 @@
 - 💬 Ask me about **JavaScript, HTML, CSS, R, Python, Git, Linux, VS Code**
 - 📫 How to reach me: **ikramrachid223@gmail.com**
 
-## Connect with me:
 
-<a href="https://www.linkedin.com/in/Vanity" target="_blank">
-  <img src="https://ikram rachid/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" />
-</a>
-<a href="mailto:ikramrachid223@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" />
-</a>
 
 ## Languages:
 
